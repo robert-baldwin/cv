@@ -1,0 +1,339 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/nixos.org) (preloaded format=pdflatex 1980.1.1)  7 FEB 2024 16:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**template.tex
+(./template.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (./resume.cls
+Document Class: resume 2022/12/17 v3.0 Resume class
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/base/size11.clo
+File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
+))
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen141
+\ar@mcellbox=\box51
+\extrarowheight=\dimen142
+\NC@list=\toks17
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+)
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen145
+\Gm@wd@mp=\dimen146
+\Gm@odd@mp=\dimen147
+\Gm@even@mp=\dimen148
+\Gm@layoutwidth=\dimen149
+\Gm@layoutheight=\dimen150
+\Gm@layouthoffset=\dimen151
+\Gm@layoutvoffset=\dimen152
+\Gm@dimlist=\toks18
+))
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/ebgaramond/ebgaramond.sty
+Package: ebgaramond 2022/09/10 (Bob Tennent and autoinst) Style file for EB Gar
+amond fonts.
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/generic/xkeyval/xkeyval.tex
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count197
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 161.
+LaTeX Info: Redefining \textsw on input line 169.
+)
+LaTeX Font Info:    Trying to load font information for OT1+EBGaramond-OsF on i
+nput line 46.
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/ebgaramond/OT1EBGaramond-OsF.fd
+File: OT1EBGaramond-OsF.fd 2019/10/22 (autoinst) Font definitions for OT1/EBGar
+amond-OsF.
+)
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' in size <10.95> not ava
+ilable
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on 
+input line 46.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 46.
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box53
+) (./template.aux)
+\openout1 = `template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen153
+\scratchbox=\box54
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen154
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks22
+)
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
+* v-part:(T,H,B)=(43.36243pt, 708.24513pt, 43.36243pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=505.89pt
+* \textheight=708.24513pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-65.90756pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@mv@tabular=\count271
+\c@mv@boldtabular=\count272
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' in size <20.74> not ava
+ilable
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on 
+input line 46.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/n' will be
+(Font)              scaled to size 20.74pt on input line 46.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' in size <20.74> not ava
+ilable
+(Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on inp
+ut line 46.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/bold/n' will be
+(Font)              scaled to size 20.74pt on input line 46.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 46--46
+[] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 46.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 46.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 46.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' in size <10.95> not ava
+ilable
+(Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on inp
+ut line 52.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/bold/n' will be
+(Font)              scaled to size 10.95pt on input line 52.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' in size <10.95> not av
+ailable
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/it' tried instead on
+ input line 70.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/it' will be
+(Font)              scaled to size 10.95pt on input line 70.
+[1
+
+{/nix/store/6kdm5xr6i8qv8vf707wddhk897dgiiqb-texlive-combined-full-2022-final/s
+hare/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./template.aux) ) 
+Here is how much of TeX's memory you used:
+ 3707 strings out of 476024
+ 68427 string characters out of 5764067
+ 1861388 words of memory out of 5000000
+ 24125 multiletter control sequences out of 15000+600000
+ 521904 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,6n,76p,502b,229s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/nix
+/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-texmfd
+ist/fonts/enc/dvips/ebgaramond/ebgm_tsrvmb.enc}{/nix/store/sn1xgci9grv4yxlxfa91
+aa7b9ykl6pdh-texlive-combined-full-2022-final-texmfdist/fonts/enc/dvips/ebgaram
+ond/ebgm_fc2mbn.enc}</nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combin
+ed-full-2022-final-texmfdist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb>
+</nix/store/sn1xgci9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-t
+exmfdist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></nix/store/sn1xgc
+i9grv4yxlxfa91aa7b9ykl6pdh-texlive-combined-full-2022-final-texmfdist/fonts/typ
+e1/public/ebgaramond/EBGaramond-Regular.pfb></nix/store/sn1xgci9grv4yxlxfa91aa7
+b9ykl6pdh-texlive-combined-full-2022-final-texmfdist/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb>
+Output written on template.pdf (2 pages, 310715 bytes).
+PDF statistics:
+ 33 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

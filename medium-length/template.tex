@@ -1,0 +1,131 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 3.0 (December 17, 2022)
+%
+% This template originates from:
+% https://www.LaTeXTemplates.com
+%
+% Author:
+% Vel (vel@latextemplates.com)
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% License:
+% CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[
+	%a4paper, % Uncomment for A4 paper size (default is US letter)
+	11pt, % Default font size, can use 10pt, 11pt or 12pt
+]{resume} % Use the resume class
+
+\usepackage{ebgaramond} % Use the EB Garamond font
+
+%------------------------------------------------
+
+\name{Robert W. Baldwin} % Your name to appear at the top
+
+% You can use the \address command up to 3 times for 3 different addresses or pieces of contact information
+% Any new lines (\\) you use in the \address commands will be converted to symbols, so each address will appear as a single line.
+
+\address{Austin, TX 78726} % Main address
+
+\address{(415)~$\cdot$~688~$\cdot$~0458 \\ rob.baldwin@hey.com} % Contact information
+
+\address{github.com/robert-baldwin \\ linkedin.com/in/robwbaldwin}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Technical Strengths}
+
+	\begin{tabular}{@{} >{\bfseries}l @{\hspace{6ex}} l @{}}
+		Languages & Ruby, Python, Javascript, Elixir, HTML, CSS \\
+        Frameworks \& Libraries & Ruby on Rails, Pandas, FastAI, React, Phoenix \\
+		Protocols \& APIs & JSON, REST, GraphQL \\
+		Databases & PostgreSQL, Snowflake \\
+		Tools & git, vim, docker, nomad, dbt, nix
+	\end{tabular}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Experience}
+
+    \begin{rSubsection}{Wonolo}{December 2020 - November 2023}{Director, Software Engineering}{San Francisco, CA \& Miami, FL}
+		\item Hired and managed 40+ engineers organized into 7 teams spanning 5 functional domains: \\
+		B2B web portal, B2C mobile app, B2B2C ML powered marketplace, growth marketing, data analytics engineering.
+        \item Championed data strategy, data analytics engineering, and enterprise data warehousing at leadership level to improve data fluency across departments.
+	\end{rSubsection}
+
+%------------------------------------------------
+
+    \begin{rSubsection}{Wonolo}{April 2019 - November 2020}{Manager, Software Engineering}{San Francisco, CA}
+		\item Grew North American based engineering team from 4 to 12 engineers in 6 months.
+		\item Prototyped and migrated core ranking system from Ruby monolith to Python service improve matching performance using XGBoost.
+		\item Created backtesting pipeline using pandas and scikit-learn to quickly evaluate model performance.
+		\item Built A/B experiments infrastructure using Segment and LaunchDarkly to validate matching model performance in production.
+	\end{rSubsection}
+
+%------------------------------------------------
+
+    \begin{rSubsection}{Wonolo}{October 2017 - March 2019}{Lead Software Engineer}{San Francisco, CA}
+		\item Responsible for overall application uptime, performance, security, and pre-AWS infrastructure.
+		\item Led application side of migration from Heroku to an containerized service mesh using Nomad on AWS to reduce operational costs >80%.
+		\item Designed, built, and deployed multiple features into production to significantly grow top-line revenue each year.
+        \item Prototyped merge queue Slack bot to support growing team, reducing change failure rate and increasing deploy frequency.
+	\end{rSubsection}
+
+%------------------------------------------------
+
+	\begin{rSubsection}{Tapjoy}{February 2015 - October 2017}{Senior Software Engineer}{San Francisco, CA}
+		\item Integrated 3rd party real-time bidding service with 1st party ad platform to grow video supply.
+		\item Improved jenkins build pipeline reducing cost and improving performance.
+		\item Built in-house CLI tool to increase development velocity using existing infrastructure.
+	\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+	
+	\textbf{SUNY Binghamton} \hfill \textit{May 2012} \\ 
+	B.S. in Biochemistry / Philosophy \\
+	Minor in History \smallskip \\
+	Member of Binghamton University Scholars Program \\
+    Chairman of Student Outreach Committee \smallskip \\
+	Earned Hours: 201, Overall GPA: 3.14
+	
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EXAMPLE SECTION
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{Section Name}
+
+	%Section content\ldots
+
+%\end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
